@@ -1,0 +1,29 @@
+{
+  "todoList": [
+    {
+      "id": 1,
+      "name": "Sleeping",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "name": "Eating",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "name": "Singing",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "name": "Studying",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "name": "Talking",
+      "completed": false
+    }
+  ]
+}
